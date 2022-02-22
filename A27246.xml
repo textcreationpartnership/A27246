@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in S. Lawrence-Jewry Church on the fifth of November, Anno Dom. 1678 by Joseph Bedle ...</title>
+            <author>Bedle, Joseph, 1644 or 5-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27246</idno>
+            <idno type="STC">Wing B1675</idno>
+            <idno type="STC">ESTC R19388</idno>
+            <idno type="EEBO-CITATION">12114766</idno>
+            <idno type="OCLC">ocm 12114766</idno>
+            <idno type="VID">54271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27246)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 857:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in S. Lawrence-Jewry Church on the fifth of November, Anno Dom. 1678 by Joseph Bedle ...</title>
+                  <author>Bedle, Joseph, 1644 or 5-1692.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Everingham for W. Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms VII, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:54271:1"/>
+            <p>Imprimatur,</p>
+            <p>Febr. 13. 1678/9.</p>
+            <p>
+               <hi>Guil. Sill, R. P. D. Henr. Epiſc. Lond. a Sac. Dom.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:54271:1"/>
+            <p>A SERMON PREACHED IN S. <hi>Lawrence-Jewry</hi> CHURCH ON THE Fifth of <hi>November, Anno Dom.</hi> 1678.</p>
+            <p>BY <hi>JOSEPH BEDLE,</hi> Vicar of Great <hi>Burſted</hi> in <hi>Eſſex,</hi> and one of His Maje<g ref="char:EOLhyphen"/>ſties Chaplains, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Everingham</hi> for <hi>W. Kettilby,</hi> at the Biſhops Head in S. <hi>Paul</hi>'s Church-Yard, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:54271:2"/>
+            <pb n="1" facs="tcp:54271:2"/>
+            <head>A SERMON PREACHED On the Fifth of <hi>November,</hi> 1678.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſalm VII. V. 15.</hi>
+                  </bibl>
+                  <p>He made a pit, and digged it, and is fallen in<g ref="char:EOLhyphen"/>to the ditch which he made.</p>
+               </q>
+            </epigraph>
+            <p>IT is the intereſt of Mankind to be juſt, and good: Righteouſneſs hath a Re<g ref="char:EOLhyphen"/>ward, it delivers from death: a good man ſhall be ſatisfied from himſelf, though the World does not much regard him, or reward him: though he hath ha<g ref="char:EOLhyphen"/>tred for his good-will, and is perſecuted be<g ref="char:EOLhyphen"/>cauſe he will be juſt and good; yet his in<g ref="char:EOLhyphen"/>ward peace and ſoul-contentment ſhall plen<g ref="char:EOLhyphen"/>tifully
+<pb n="2" facs="tcp:54271:3"/>recompence him. Whereas <hi>the back<g ref="char:EOLhyphen"/>ſlider in heart ſhall be filled with his own ways, Prov.</hi> 14.14. Every wicked man, though his ways be never ſo ſecret, and his contrivan<g ref="char:EOLhyphen"/>ces never ſo ſubtle, and his deſign carried on with never ſo much power and policy; yet his ſucceſs ſhall not only be fruitleſs, but ſo croſs and contrary to his purpoſes and plots, that he ſhall have little cauſe to boaſt of his bargain. This the Pſalmiſt aſſerts in this Pſalm; he tells you, that <hi>though he tra<g ref="char:EOLhyphen"/>velleth with iniquity, and conceives miſchief, yet he brings forth a lye: He makes a pit, and digs it, but he falls into the ditch that he made.</hi> In the one we are told that he brings their wicked deſigns to nought; in the other, that he turns them to their own ruine and deſtruction.</p>
+            <p>In the words, with their coherence, you may find theſe parts,</p>
+            <p n="1">1. The labour of a wicked man; <hi>he makes a pit, and digs it.</hi>
+            </p>
+            <p n="2">2. The end of his labour, to enſnare the righteous, and to lead captive men of the ſoundeſt principles and greateſt integrity; this you may gather from the body of the
+<pb n="3" facs="tcp:54271:3"/>Pſalm. <hi>David</hi> being ſenſible of the enmity of the wicked, provides for his own ſafety, he flies unto God for refuge; Verſes firſt and ſecond.</p>
+            <p n="3">3. There is the event of his labour, <hi>he falls into the ditch which he made.</hi>
+            </p>
+            <p>From the two firſt of theſe I repreſent this to your conſideration, That wicked men are very induſtrious, they make it their bu<g ref="char:EOLhyphen"/>ſineſs to deſtroy the Church and People of God; they are ſaid here to <hi>dig a pit</hi> to in<g ref="char:EOLhyphen"/>trap them, and that's a laborious work. Hence we meet with the unjuſt Steward venting himſelf thus, <hi>to beg I am aſham'd, and to dig I cannot.</hi> 'Tis that I was never us'd to, I was never brought up to it, my body will not bear it. This was part of <hi>Adam</hi>'s Curſe upon his tranſgreſſion, he was to get his li<g ref="char:EOLhyphen"/>ving by <hi>the ſweat of his brows,</hi> and he was ſent to <hi>till the ground.</hi> And though it be tedious and painful, yet men are willing to undergo it, yea chuſe it, that they may thereby accompliſh their wicked Deſigns. Hence <hi>David</hi> prays, <hi>deliver me from the wor<g ref="char:EOLhyphen"/>kers of iniquity, and ſave me from bloody men. The wicked plotteth againſt the juſt, and gnaſh<g ref="char:EOLhyphen"/>eth
+<pb n="4" facs="tcp:54271:4"/>upon him with his teeth.</hi> 'Tis not done in a paſſion that ariſeth and vaniſheth in a moment, but 'tis their deliberate act, their work, their employ, their buſineſs: <hi>He watch<g ref="char:EOLhyphen"/>eth the righteous, and ſeeketh to ſlay him. The wicked oppreſs him. Pſal.</hi> 17.9, 12. <hi>Like as a Lyon that is greedy of his prey, and as it were a young Lyon lurking in ſecret places.</hi> Where the Prophet alludes to a hungry Ly<g ref="char:EOLhyphen"/>on. Now we know what an influence hun<g ref="char:EOLhyphen"/>ger hath upon our ſelves; our Proverb tells us, <hi>It will break through Stone-Walls.</hi> Though man ſhould be ſubject to, and reſtrained by the Laws of Nations, and of Nature too; yet if theſe lye in hunger's way, they become but Spiders webs. The Rules of Nature are deſerted to preſerve Nature: In the Famine of <hi>Samaria</hi> we meet with a Woman ſaying, <hi>Give me thy Son, that we may eat him to day, and we will eat my Son on the morrow:</hi> How many have forfeited their lives, by endea<g ref="char:EOLhyphen"/>vouring to ſatisfie their bowels, when they cry'd for bread. Now if hunger in man makes him break all Laws, how ravenous muſt the beaſts be, that have no ſuch tyes upon them? how ravenous muſt the Lyon
+<pb n="5" facs="tcp:54271:4"/>be when greedy of his prey? Even ſuch are the Enemies of the Lord and his Church. And though man may at firſt wonder, that man ſhould be ſo cruel to man, whom it becomes to practiſe Courteſie, and exerciſe Civility; yet upon ſecond thoughts we may be ſatisfied that 'tis true; and the occaſion may be this.</p>
+            <p>Firſt, The Corruption of his Nature: For though he's excellent as to his Origi<g ref="char:EOLhyphen"/>nal, yet being corrupted he proves worſe than any. Thoſe Parts and Gifts which ſhould be employed to the Glory of his Ma<g ref="char:EOLhyphen"/>ker, and the working his own ſalvati<g ref="char:EOLhyphen"/>on, are turn'd to his Diſhonour, and his own Eternal Ruine. It happens many times, that Scholars and men of great Learning have broach'd the greateſt Er<g ref="char:EOLhyphen"/>rours. Thus man, though he hath more advantage than any other Creature, and might ſupport his Nature better, yet many times bends all his ſtrength to its ſubverſi<g ref="char:EOLhyphen"/>on, and ſhews his Wit and Knowledge in this only, that he can be more cruel than any other Creature.</p>
+            <pb n="6" facs="tcp:54271:5"/>
+            <p>But the occaſion of wicked mens hating the Church and People of God, may pro<g ref="char:EOLhyphen"/>ceed,</p>
+            <p>Secondly, From the enmity that is be<g ref="char:EOLhyphen"/>tween them: There is an irreconcileable hatred between the Seed of the Woman and the Seed of the Serpent; becauſe the one muſt break the others head, therefore the other will bruiſe his heel, <hi>Gen.</hi> 3.15. The enmity is natural, 'tis hereditary.</p>
+            <p>Or if this be not the occaſion, the oppo<g ref="char:EOLhyphen"/>ſition may proceed,</p>
+            <p>Thirdly, From the vaſt difference that is between them in their Cuſtoms and Habits, in their Manners and Mode of living. Wherefore did <hi>Cain</hi> hate his Brother, but <hi>becauſe his own Works were evil, and his Bro<g ref="char:EOLhyphen"/>thers righteous?</hi> What ſhould we do, ſay they, with theſe men that are ſo much for Law and Goſpel? they are but Enemies to Nature, and their buſineſs is to rob us of thoſe Priviledges that we are born to. Man is a free agent, why ſhould he be ſtinted? ſays the Libertine, let him gratifie his genius to the full, wherefore were the Creatures made, if not to be uſed? Why for us, if
+<pb n="7" facs="tcp:54271:5"/>we may not uſe them as we pleaſe? Am not I, ſays another, Maſter of my own body? Am not I Lord of my ſelf? what can I elſe call mine? Let's, ſays a third, have Gods of our own making, that we may worſhip them: they being in our eyes may be fami<g ref="char:EOLhyphen"/>liar to us, theſe extort leſs fear, and require leſs obedience; when therefore any perſon ſhall tell theſe men, fitter termed beaſts, that man was not made for himſelf, but for the promotion of the Glory and Honour of God his Maker, they are but derided for their pains. If they are directed to a right uſe of the Creatures, and are adviſed to live a holy, righteous, and godly life, they are but hated for their labour. Theſe men, ſay they, are not for our turn, they are men of another world, they have a faſhion by themſelves, they hate our ways, and there<g ref="char:EOLhyphen"/>fore we muſt hate them.</p>
+            <p>Fourthly, A righteous man and a wicked man differ in their End, and in the Means about their End; their intereſt is vaſtly dif<g ref="char:EOLhyphen"/>ferent, and this contracts the odium: Or elſe the enmity may proceed from this, that the wicked ſees the righteous more happy
+<pb n="8" facs="tcp:54271:6"/>than himſelf; this begets envy. He looks upon him to be his Enemy, and he's great<g ref="char:EOLhyphen"/>ly diſturbed to ſee him proſper. There<g ref="char:EOLhyphen"/>fore <hi>David</hi> prays, <hi>Gather not my ſoul with ſin<g ref="char:EOLhyphen"/>ners, nor my life with bloody men, in whoſe hands is miſchief.</hi> This was the ground of the Devil's quarrel with the Woman, <hi>When the Dragon ſaw he was caſt unto the earth, he perſecuted the Woman that brought forth the man-child, Rev.</hi> 12.13. Thus you ſee what's the ground of wicked mens perſecuting the Church of God, and I hope you believe that they are induſtrious to work out her ruine.</p>
+            <div type="part">
+               <head>
+                  <g ref="char:V">Ʋ</g>SE.</head>
+               <p>Let us then be as induſtrious for the pre<g ref="char:EOLhyphen"/>ſervation of it: ſelf-preſervation is a Law of Nature; and to preſerve Religion in its purity and regularity we are commanded by the Law of God. And therefore we are bound to appear in open field againſt the common Profaners and Corrupters of it. What Reaſon can there be given, why we ſhould not be as zealous for the propa<g ref="char:EOLhyphen"/>gating that Religion we profeſs and believe to be true, as the <hi>Romaniſts</hi> are for theirs?
+<pb n="9" facs="tcp:54271:6"/>there is none that I can think of: but yet 'tis not ſo. Though the <hi>Romaniſts</hi> differ amongſt themſelves, yet they all are as one man againſt the Proteſtants; when 'tis our buſineſs to ſupplant and deſtroy one ano<g ref="char:EOLhyphen"/>ther; one's for <hi>Paul,</hi> another for <hi>Apollo,</hi> a third for <hi>Cephas,</hi> as if Chriſt could be divi<g ref="char:EOLhyphen"/>ded. This I fear, without a ſpeedy Refor<g ref="char:EOLhyphen"/>mation, will be our ruine: we are taught by an Infallible Spirit, that <hi>a Church divi<g ref="char:EOLhyphen"/>ded againſt it ſelf cannot ſtand long:</hi> And yet how induſtrious are many to make breaches and create differences, by making Worſhip to affront Worſhip, and one Church to joſtle out or beat down another.</p>
+               <p>I refer it to any Man's judgment, whe<g ref="char:EOLhyphen"/>ther or not by theſe our Differences have not been much augmented, the Proteſtant Religion loſt much Ground, and the E<g ref="char:EOLhyphen"/>nemy prevailed much againſt us. I con<g ref="char:EOLhyphen"/>feſs I can hear ſometimes the Pope call'd Antichriſt and the Whore of <hi>Babylon,</hi> but what does all this ſignifie? ſtrong Argu<g ref="char:EOLhyphen"/>ments, wrapt up in better Words, muſt impair his Cauſe; Peace, Unity, and Uni<g ref="char:EOLhyphen"/>formity amongſt our ſelves muſt work out
+<pb n="10" facs="tcp:54271:7"/>his Intereſt, it cannot reaſonably be ex<g ref="char:EOLhyphen"/>pected without it. But where lies the fault? that muſt not be mention'd. I have been ſometimes thinking this was a Cauſe, every Man ſo vigorouſly proſecutes his private Intereſt, that they care not what becomes of the whole, or at leaſt the Pub<g ref="char:EOLhyphen"/>lick concern is much neglected. Or if this muſt not be allowed the Cauſe, may not I ſay, as the King to the Woman of <hi>Tekoah, Is not the hand of</hi> Joab <hi>in all this?</hi> Is not the Jeſuits Hand in our Diviſions and Separation? It was notable Counſel that was given to <hi>Benhadad</hi> when he was routed by the King of <hi>Iſrael,</hi> viz. <hi>Change your place, take the Kings away every Man out of his place, and put Captains in their rooms, then ſhall we be ſtronger than they,</hi> 1 <hi>Kings</hi> 20.24, 25. Thus the Jeſuits know, that many of their Doctrines are ſo odious, that they will not paſs from them as they are; but let new Men broach the ſame Errours with a fair gloſs upon them, then ſhall they paſs currantly.</p>
+               <p>As for inſtance, Their Doctrine of In<g ref="char:EOLhyphen"/>fallibillity, moſt of the reformation ſtart
+<pb n="11" facs="tcp:54271:7"/>at it; but let this be turn'd into a ſtate of perfection in this life, and be managed by the demure Creature, call'd a Quaker, then it ſhall ſlide down glibly amongſt the com<g ref="char:EOLhyphen"/>mon ſort of people. If the Jeſuits preach the lawfulneſs of depoſing Kings and Prin<g ref="char:EOLhyphen"/>ces at the Pope's pleaſure, 'tis cry'd down as Heretical and Damnable, and very good reaſon for it. However, let a man of another Face, a new Name, and a more pleaſing Aſpect, preach and practiſe Rebellion too, then the croud immedi<g ref="char:EOLhyphen"/>ately cries out, <hi>Curſe ye</hi> Meros, <hi>Curſe him bitterly, becauſe they do not come out to help the Lord againſt the mighty.</hi> Though I always thought we were to embrace Truth for its own ſake, and hate Errour be<g ref="char:EOLhyphen"/>cauſe 'tis ſuch, let either of them be ma<g ref="char:EOLhyphen"/>naged by what perſon ſoever: elſe we may be juſtly charg'd with what St. <hi>Jude</hi> ſpeaks, of having men's perſons in admiration be<g ref="char:EOLhyphen"/>cauſe of advantage, and ſo conſequent<g ref="char:EOLhyphen"/>ly inherit the portion St. <hi>James</hi> lays be<g ref="char:EOLhyphen"/>fore us, viz. <hi>to commit Sin, and to be con<g ref="char:EOLhyphen"/>vinced of the Law as Tranſgreſſors,</hi> James 2.9. And thus have we diſcourſed of the former
+<pb n="12" facs="tcp:54271:8"/>part of the Text, clouded, and full of troubles: We come now to the brighter and better ſide, long may it be ſo. <hi>And is fallen into the Ditch which he made.</hi>
+               </p>
+               <p>Theſe words bring us to the event of a wicked Man's labour, <hi>He fell into the Ditch that he made.</hi>
+               </p>
+               <p>
+                  <hi>Note.</hi> God not only diſappoints the wick<g ref="char:EOLhyphen"/>ed Deſigns of the Enemies of his Church, but he turns them to their own hurt and detriment. Their own Plots are their own Plagues; he wreſts their Swords out of their Hands, and turns them into their own Bowels; he ſerves all his Enemies as <hi>David</hi> did <hi>Goliah;</hi> he cuts off their Heads with their own Sword. Nothing hath amongſt the Heathens been accounted more juſt, than that a man fall by the ſame means which he deſigned ſhould be the ruine of his Neighbour. It hath of old been proved true, That evil Coun<g ref="char:EOLhyphen"/>ſel is worſt to him that gives it. <hi>The Wicked is ſnared in the works of his own Hands; the Wicked in his Pride doth per<g ref="char:EOLhyphen"/>ſecute the Poor, let them be taken in the De<g ref="char:EOLhyphen"/>vices they have imagined,</hi> Pſalm 10.2. His
+<pb n="13" facs="tcp:54271:8"/>own Iniquities ſhall take the Wicked him<g ref="char:EOLhyphen"/>ſelf, and he ſhall be holden with the Cords of his Sins. Satan makes uſe of a Woman to ſubvert and deſtroy the very race of Man<g ref="char:EOLhyphen"/>kind; the woman tempts <hi>Adam</hi> to eat the forbidden Fruit, thus man falls: however, man is reſtored by the Seed of the Woman to a ſafer and ſurer Eſtate than he was in be<g ref="char:EOLhyphen"/>fore. <hi>Joſeph</hi>'s Brethren have a deſign to hin<g ref="char:EOLhyphen"/>der his Propheſies, and to make his Dreams but idle things; upon this they ſell him as a Captive or Slave into <hi>Egypt;</hi> then they thought he would not expect to be wor<g ref="char:EOLhyphen"/>ſhipped by them when he was in that condi<g ref="char:EOLhyphen"/>tion himſelf. However, this deſign effect<g ref="char:EOLhyphen"/>ed what they endeavoured to have prevent<g ref="char:EOLhyphen"/>ed; there happening a Famin, they are for<g ref="char:EOLhyphen"/>ced to go into <hi>Egypt,</hi> and there bow and cringe to <hi>Joſeph</hi> for Bread. The <hi>Jews</hi> take counſel to kill Chriſt, thinking, that if they let him alone all men would believe on him, and the <hi>Romans</hi> would come and take away both their Place and Nation. And this very thing proved the means of effect<g ref="char:EOLhyphen"/>ing what they feared; for the days came upon her that her Enemies caſt a Trench
+<pb n="14" facs="tcp:54271:9"/>about her, and compaſſed her round, and kept her in on every ſide, and laid her even with the Ground; and they left not in her one Stone upon another, becauſe ſhe knew not the time of her Viſitation, St. <hi>Luke</hi> 19.43, 44.</p>
+               <p>Thus <hi>Roderick,</hi> King of <hi>Spain,</hi> to ſecure himſelf againſt the lawful Prince, whom he had depoſed, diſmounted all the ſtrong<g ref="char:EOLhyphen"/>holds, unburthen'd the Caſtles, diſarm'd the people, which turn'd to his own ruin: this indeed ſtrengthened him againſt Do<g ref="char:EOLhyphen"/>meſtick Commotions, but not Forreign Invaſions; for the <hi>Moors,</hi> ſoon after, over<g ref="char:EOLhyphen"/>threw him, and in few Months conquered <hi>Spain.</hi> My Text tells you, <hi>They fell into the Ditch which they made.</hi> Thus <hi>Haman</hi> is hanged on the ſame Gallows which he had prepared for <hi>Mordecai.</hi> And this Text is litte<g ref="char:EOLhyphen"/>rally fulfilled in our Ears this day. For thus it happened to theſe wicked Conſpi<g ref="char:EOLhyphen"/>rators; that which they deſigned to have been the ruin of the King, the Royal Iſ<g ref="char:EOLhyphen"/>ſue, the Nobles, the Clergy, and Gentry of the Land, was the deſtruction of them<g ref="char:EOLhyphen"/>ſelves; for two of them being drying of a
+<pb n="15" facs="tcp:54271:9"/>pound of Powder in the Chimney-Corner, on a ſudden a Spark of Fire flew into it, and they were miſerably battered by their own Engin; you might at that time have read their Sin in the Glaſs of their puniſhment; they hate a lingring death, they are for a ſpeedy ruine, ſo ſudden a miſchief happens to themſelves.</p>
+            </div>
+            <div n="1" type="part">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>SE</hi> I.</head>
+               <p>All which demonſtrates the Lord to be moſt wiſe and merciful, powerful and juſt.</p>
+               <p n="1">1. Moſt wiſe, <hi>The Lord is known by the Judgment which he executeth, the wicked is ſnared in the work of his own hands.</hi> God will not loſe the Glory of any of his Attri<g ref="char:EOLhyphen"/>butes, therefore God takes them thus, that he may be known to be wiſer than the wiſeſt, as the Apoſtle hath expreſſed it: <hi>Oh the depth of the riches both of the Wiſdom and Knowledge of God, how unſearchable are his Judgments, and his Ways paſt ſinding out!</hi> He is ſaid to take the wiſe in their own craf<g ref="char:EOLhyphen"/>tineſs, when they are in the higheſt and moſt ſublime Counſels: He doth not ſtay till they begin to doat, and to do weakly, and then takes them; but he befools them
+<pb n="16" facs="tcp:54271:10"/>in the heighth of Wit, and in the depth of Carnal Policy; when, like <hi>Achitophel,</hi> they give Counſel like the Oracles of God.</p>
+               <p n="2">2. This demonſtrates the Lord to be moſt merciful, that will deliver his people at ſuch a time: <hi>The needy ſhall not always be forgotten, the expectation of the poor ſhall not periſh for ever. He ſaveth the poor from their Sword, from their mouth, and from the hand of the mighty; ſo the poor hath hope, and iniquity ſtoppeth her mouth, Job</hi> 5.15, 16.</p>
+               <p n="3">3. This alſo vindicates his Power. Helets them alone till their Plot comes to maturity, and they were upon executing of it, and then he brings all to light and nought: This does he at this time and not before, for the greater manifeſtation of his Power. As Chriſt deferr'd to come to <hi>Lazarus</hi> till he had been dead four days: Now our Saviour did not defer to come becauſe he loved him not, for he wept bitterly; inſomuch that the Jews could ſay, <hi>See how he loves him.</hi> If our Saviour had relieved him pre<g ref="char:EOLhyphen"/>ſently, the Jews would have ſaid he was not dead, and that our Saviour had only awa<g ref="char:EOLhyphen"/>kened him out of Sleep; but having been
+<pb n="17" facs="tcp:54271:10"/>dead four days, and beginning to ſtink, then for Chriſt to raiſe him! this was for the Glory of the Son of God. To reſtrain the Sinner in his height, to croſs the Coun<g ref="char:EOLhyphen"/>ſels of Wicked men, and to ruin them by their own Devices, beſpeaks God to be ve<g ref="char:EOLhyphen"/>ry great. If one man prevails againſt another 'tis through errour; they take them by ſome advantage, becauſe they err in their Counſels: moſt ſucceſſes of men are made out of the defects of their Adverſaries; but the Lord is able to con<g ref="char:EOLhyphen"/>found his Enemies after the moſt deliberate and great Debates, the choiſeſt and beſt-grounded Reſolves, as the Apoſtle ſays, <hi>The fooliſhneſs of God is wiſer than men, and the weakneſs of God is ſtronger than men,</hi> 1 Cor. 1.25.</p>
+               <p>Laſtly, This ſpeaks God to be very juſt, that he will thus pay the Sinner home in his own kind, in that he cauſeth their miſ<g ref="char:EOLhyphen"/>chiefs to light upon their own head, and their violent dealing upon their own pates, in tumbling them into the Pit they have made for others. Thus juſtly was <hi>Adoni<g ref="char:EOLhyphen"/>bezeck</hi> requited, thus he tells you himſelf,
+<pb n="18" facs="tcp:54271:11"/>
+                  <hi>As I have done, ſo God hath requited me,</hi> Judges 1.7.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>SE</hi> II.</head>
+               <p n="2">2. This ſpeaks the caſe of all the Enemies of Gods Church to be very miſerable: they are wiſe only to do evil; they dig pits, and lay ſnares, and ſay who ſee them? Let ſuch know that God will not only diſap<g ref="char:EOLhyphen"/>point them, but take them in their own craftineſs. Now it's a great trouble to wicked men, that they are prevented, and cannot do that miſchief they intend to o<g ref="char:EOLhyphen"/>thers; but it is a greater vexation, when their counſels recoil upon them, and wound themſelves; when their own plots and pro<g ref="char:EOLhyphen"/>jects promote their own ruine; when their own actions effect that which they had rather dye than live to ſee done; when that miſchief falls on their own heads, which they intend<g ref="char:EOLhyphen"/>ed for others, how doth this aggravate their ſorrows? How will they be able to bear it, to ſee themſelves acceſſary to their own ru<g ref="char:EOLhyphen"/>ine: This muſt needs wound their ſouls, to think, they have blaſted their own Eſtates, blemiſhed their own Names, ruin'd their Poſterity, ſet fire to their own Houſes with
+<pb n="19" facs="tcp:54271:11"/>their own hands: this aggravates the miſe<g ref="char:EOLhyphen"/>ry, when a man falls by his own hand; ſelf-murther is the moſt bloody of all murthers: ſurely this then muſt needs be a great ter<g ref="char:EOLhyphen"/>rour to theſe wicked Conſpirators, to think they had plotted and worked ſo long to de<g ref="char:EOLhyphen"/>ſtroy themſelves, for thus you ſee it hap<g ref="char:EOLhyphen"/>pened. <hi>They made a Pit, and digged it, and fell into the Ditch which they made.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>SE</hi> III.</head>
+               <p>Since God preſerves his Church, and turns the Conſpiracies of wicked men to their own detriment, ruin, and deſtruction, as he did this day, Let us return Praiſe and Glory to God; this is the buſineſs of the day; 'tis its proper work: If they had had their Ends they would have been ſinging long before this, <hi>Jam ſeges eſt ubi Troja fuit.</hi> And ſhall not we rejoyce at our own preſervation? Bleſs then and praiſe the name of the Lord; I'll tell you for what and how.</p>
+               <p>Firſt, That God did diſcover this Plot, and brought their Deeds of Darkneſs to light; that after they had travelled with miſchief many years, and brought their
+<pb n="20" facs="tcp:54271:12"/>Deſign within few hours of its Execution, that then it ſhould be brought to nought! <hi>Faux,</hi> at the dead time of the Night with his Dark Lanthorn, ready to blow up his Myne, was diſcovered, taken, and that ſtrangely; all was miraculouſly diſcovered by a few obſcure Lines, which being brought to the King, he truly interpreted them; the Lord made him the happy Inſtrument of this great deliverance, and it is marvellous in our Eyes. Bleſs then that God that blaſt<g ref="char:EOLhyphen"/>ed this Plot, and brought this Deſign to nought. They deſigned to have blown up the King, to have taken away the life of the Lords anointed, which accurſed Principle and moſt horrid attempt, is contrary to the Law of God, the Law of the Nation, and to common Reaſon.</p>
+               <p n="1">1. The Law of God ſays thus, <hi>Curſe not the King, no not in thy thought; Curſe not the rich in thy Bed-Chamber, for a Bird of the Air ſhall carry the Voice, and that which hath Wings ſhall tell the matter,</hi> Eccleſ. 10.20. The Apoſtle teacheth us thus. <hi>Let every Soul be ſubject to the higher powers, for there is no power but of God; whoſoever therefore re<g ref="char:EOLhyphen"/>ſiſts
+<pb n="21" facs="tcp:54271:12"/>the Power, reſiſts the Ordinance of God, and ſhall receive to themſelves damnation,</hi> Rom. 13.1, 2. Let every Soul of what rank or quality ſoever, every Soul of what faith and per<g ref="char:EOLhyphen"/>ſwaſion ſoever. And it follows, <hi>whoever reſiſts ſhall receive to himſelf damnation.</hi> In which Words it's very plain, That it's upon no account whatever lawful, either upon corruption in principle or practice, to re<g ref="char:EOLhyphen"/>bell againſt, much leſs to depoſe, the Su<g ref="char:EOLhyphen"/>preme Magiſtrate. And to confirm men in this Principle, I have theſe two things to offer to their conſideration. Firſt, 'tis very remarkable, That thoſe for whom the Goſpel preſſeth ſubjection and obedi<g ref="char:EOLhyphen"/>ence, were Enemies to the Croſs of Chriſt, implacable Adverſaries to his Perſon, Do<g ref="char:EOLhyphen"/>ctrine, and Government. Could this Do<g ref="char:EOLhyphen"/>ctrine of ſubjection to wicked and Atheiſti<g ref="char:EOLhyphen"/>cal Princes and Emperours have been laid aſide, our Saviour and his Apoſtles had ea<g ref="char:EOLhyphen"/>ſily avoided thoſe Perſecutions and fiery Tryals which they met with upon the ac<g ref="char:EOLhyphen"/>count of their Doctrine, and the holineſs of their lives. If Hereſie or Corruption in Manners had been ſufficient Cauſe for the
+<pb n="22" facs="tcp:54271:13"/>depoſing of Princes, as the <hi>Romaniſts</hi> aſſert, you would not have had ſo long a Roll of Martyrs to run over as now you have. Our Saviour was able to have defended his own Cauſe by his own Power, but how then ſhould the Scriptures be fulfilled.</p>
+               <p>But farther, I deſire you to reflect upon a remarkable paſſage in the Goſpel, relating to this purpoſe. 'Tis in the caſe of <hi>Herod</hi> the King. When he heard that <hi>Jeſus</hi> was born King of the <hi>Jews,</hi> he was troubled, and then no queſtion of it but agreed upon his deſtruction, though 'twas cunningly blinded with a zealous pretence of worſhip<g ref="char:EOLhyphen"/>ing him. Thus he pretends to the wiſe-men; <hi>Go, and ſearch diligently for the young Child, and when ye have found him, come and tell me, that I may worſhip him alſo: But the wiſe-men, being warned of God that they ſhould not return, they departed into their own Country another way. Now when</hi> Herod <hi>ſaw he was mocked of the wiſe-men, he was exceeding wroth, and ſent forth and ſlew all the Children that were in</hi> Beth<g ref="char:EOLhyphen"/>lehem, <hi>and in all the Coaſts thereof, from two years old and under, according to the time which he had diligently enquired of the wiſe-men.</hi>
+                  <pb n="23" facs="tcp:54271:13"/>Now what a miſerable caſe was this? you can conceive of little leſs than Lamentations, weeping, and great mourning. Rachel <hi>weep<g ref="char:EOLhyphen"/>ing for her Children, and would not be comforted, becauſe they are not;</hi> for what's more dear to a Father? the Father loves his Child, becauſe 'tis his Image; and if he hath never ſo many, he knows not which to part with; for ſome reaſon or other he loves them all. Therefore to be deprived of them all, and that at once, is a ſore affliction; <hi>'tis too hard a ſaying, who can bear it?</hi> to be bereaved of our Children by the common Infirmities and Diſeaſes that attend Mankind, is a great affliction to a good man; for by this he's diſmembred, as a Tree whoſe Branches are lopt off; and by ſuch loſ<g ref="char:EOLhyphen"/>ſes, whilſt he lives, he ſees part of himſelf turn to corruption: But to have them all butcher<g ref="char:EOLhyphen"/>ed ſo barbarouſly, and inhumanly murther'd. Poor innocent Babes! what had they done, that they muſt fall by ſo fatal and cruel a ſtroke? The thoughts of this certainly was terrible, and if any thing would have exaſperated the people, and enraged the Multitude, this would have done it; and the people, ſwelling with envy, would have burſt into publick ho<g ref="char:EOLhyphen"/>ſtility
+<pb n="24" facs="tcp:54271:14"/>and open Rebellion: But yet this Di<g ref="char:EOLhyphen"/>vine ſtory acquaints us with no ſuch thing: the Arrows of Divine Juſtice and Vengeance, though they fly not ſo ſwift as we would have them, yet they will certainly wound the heart of the bloody and deceitful man, though they be not ſharpened and winged by the rage of a mad-headed Multitude: 'tis evidently the deſign of the Goſpel, to preſs obedience to Magiſtrates, tho they were Heathens and Tyrants, much more are we obliged to obey Chriſtian Monarchs, thoſe that are merciful and good, ſuch as by the mercy of God we now live under; long may we do ſo, notwith<g ref="char:EOLhyphen"/>ſtanding all the Plots and Conſpiracies of the <hi>Jeſuits</hi> to deſtroy the Lords Anointed; which is contrary, I am ſure, to the Rules of the Goſpel, and the Doctrine of our Saviour.</p>
+               <p n="2">2. 'Tis contrary to the Law of the Nation, as you are Subjects you are obliged to ho<g ref="char:EOLhyphen"/>nour and obey your King; this is a Law of your own making, made by your Repre<g ref="char:EOLhyphen"/>ſentatives in Parliament, and ſo ye are bound to ſtand to your own Act and Deed; every honeſt man will be, I'm ſure, as good as his word, and ſtand to his promiſe.</p>
+               <pb n="25" facs="tcp:54271:14"/>
+               <p n="3">3. It's contrary to common Reaſon: This is the firſt Commandment with promiſe, <hi>Ho<g ref="char:EOLhyphen"/>nour your Father and your Mother;</hi> we in our ſphere expect duty from our Children, and obedience from our Servants; I hope then, the Father of the Country may come in for a ſhare. Thoſe Principles that own the mur<g ref="char:EOLhyphen"/>dering of Kings, and depoſing of Princes, cannot be of God, neither can thoſe men be Chriſts Diſciples, that would reduce theſe Principles into practice, ſeeing he came not to deſtroy mens lives, but to ſave them: Be<g ref="char:EOLhyphen"/>hold then the Villany of this days Conſpira<g ref="char:EOLhyphen"/>cy; they would have deſtroyed the Lords A<g ref="char:EOLhyphen"/>nointed, blown up the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, the Repreſentatives of the whole Na<g ref="char:EOLhyphen"/>tion, the Church and State too, and that at one blow: They would not allow the Ho<g ref="char:EOLhyphen"/>nourable Peers of the Realm, the worthy and brave Gentry, the Pious, Learned, and Loyal Clergy, the leaſt time to prepare for another World: They had no reſpect to the Souls of men. But bleſſed be God they were prevent<g ref="char:EOLhyphen"/>ed. Let the Patrons of their Principles turn it off as well as they can, and ſay 'twas only the Plot of ſome unfortunate Gentlemen, we'll give them the hearing of it: However, 'twas
+<pb n="26" facs="tcp:54271:15"/>well for us they were unfortunate; had they ſucceeded, they would have had greater Ti<g ref="char:EOLhyphen"/>tles conferr'd upon them; ſucceſs would have made ſo great Villany have paſs'd for Virtue: Witneſs the honour and eſteem that Father <hi>Garnet</hi> is in to this day in the Church of <hi>Rome,</hi> for the generous attempt made on this day. If I ſhould inſtance in the horrid Murder committed upon the Body of <hi>Henry</hi> the Third of <hi>France,</hi> you will find the Pope admiring and commending the Perſon and the Fact too, and dares before Witneſſes e<g ref="char:EOLhyphen"/>nough, compare it with the miracle of our Saviour's Incarnation: and had the deſign of this day taken effect, no queſtion but it would have been as great and as generous in their thoughts and determinations: But bleſſed be God, the ſnare was broken and we were de<g ref="char:EOLhyphen"/>livered, they were taken in their own crafti<g ref="char:EOLhyphen"/>neſs. <hi>Faux</hi> could not eſcape, who was ſo wickedly inſolent as to ſay, had he been with<g ref="char:EOLhyphen"/>in the houſe, as he was without, he would not have failed to have blown them up, houſe and all. But bleſſed be God he was appre<g ref="char:EOLhyphen"/>hended, and the reſt either ſlain or taken Pri<g ref="char:EOLhyphen"/>ſoners. And now, having told you what you are to bleſs God for, let me tell you in a word how, and ſo conclude.</p>
+               <pb n="27" facs="tcp:54271:15"/>
+               <p>Firſt, Bleſs God for the Deliverance from this horrible Conſpiracy; and that ſo, as you grow more and more in love with the true, ancient, Catholick, and Apoſto<g ref="char:EOLhyphen"/>lick Faith, repreſented often to you under the Name of the Proteſtant Religion; it's not enough to bleſs God with our lips, unleſs we praiſe him with our lives; he that orders his Converſation aright, praiſeth God beſt; and you cannot do it better, than by a zealous contending for <hi>the Faith once deliver'd to the Saints.</hi>
+               </p>
+               <p>Secondly, So bleſs God, that every day you grow into deteſtation and hatred of thoſe Principles that allow ſuch bloody Practices: If I ſhould ſay the <hi>Romiſh</hi> Religion is a Reli<g ref="char:EOLhyphen"/>gion whoſe Faith is Faction, and whoſe Zeal is Rebellion, 'tis no more than may be prov<g ref="char:EOLhyphen"/>ed. 'Tis a Religion that depoſeth Kings, blows up Parliaments, changeth Governments: It's an argument of an ill Cauſe, that muſt be managed by blood and treachery: It's a Religion that holds the Pope hath Power o<g ref="char:EOLhyphen"/>ver Foreign Princes; a Religion that ſets Kingdom againſt Kingdom, the Father a<g ref="char:EOLhyphen"/>gainſt the Son, and the Son againſt the Father.</p>
+               <p>Thirdly, So bleſs God, as that we pray to
+<pb n="28" facs="tcp:54271:16" rendition="simple:additions"/>God to deliver us ſtill from all ſuch bloody Attemps and horrible Conſpiracies: They are never weary of plotting miſchief, we have freſh and new arguments which tell us what they would have had, and yet deſire: And this late Plot againſt his Majeſty's moſt ſa<g ref="char:EOLhyphen"/>cred Perſon and Government, in many Cir<g ref="char:EOLhyphen"/>cumſtances far exceeding that of this day, ſhould oblige us to be more conſtant and fervent in our united Prayers for our Preſer<g ref="char:EOLhyphen"/>vation: We muſt either not underſtand, or elſe not love the Religion we own and pro<g ref="char:EOLhyphen"/>feſs to be true, if we are not as diligent to preſerve it, as the Enemy is to undermine, ſubvert, and deſtroy it. I am ſure the Pſal<g ref="char:EOLhyphen"/>miſt determines to practiſe, what I recom<g ref="char:EOLhyphen"/>mend to you: <hi>I will call upon the Name of the Lord, who is worthy to be praiſed, ſo ſhall I be ſaved from my Enemies, Pſal.</hi> 18.3. Let us imitate this great and good man, a King and Prophet too, yea let us pray, that <hi>as the Ene<g ref="char:EOLhyphen"/>mies of the Lord and his Church make a pit, and dig it, ſo they may again fall into the ditch that they have made:</hi> And to this let all the Peo<g ref="char:EOLhyphen"/>ple ſay, <hi>Amen,</hi> and <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
